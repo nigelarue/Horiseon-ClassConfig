@@ -87,9 +87,14 @@ p {
     background-color: #2589bd;
 }
 
+.benefit p {
+    text-align: center;
+}
+
 .benefit h3 {
     text-align: center;
     color: #ffffff;  
+    margin-top: 20px;
 }
 
 .benefit img {
