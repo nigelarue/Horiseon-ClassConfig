@@ -1,7 +1,7 @@
 <!-- # Horiseon-Repo
 Challenge 1 repository upload.
 File is an HTML website given by our instructors to clean out redundant code. 
-Removed redundant h3 and img lines for benefit, added benefit class to html in order to reflect updates as well as updated images to reflect accessible alt image text. Removed redundant image assignments in css stylesheet. Removed redundant h2 heading code. Updated formatting to margins to optimize flow. 
+Removed redundant h3 and img lines for benefit, added benefit class to html in order to reflect updates as well as updated images to reflect accessible alt image text. Removed redundant image assignments in css stylesheet.
 
 Removed the following lines:
 
@@ -65,7 +65,7 @@ Updated images to have alt text:
        <div id="social-media-marketing" class="social-media-marketing">
            <img src="./assets/images/social-media-marketing.jpg" class="float-left" alt="image with various social media phrases" /> -->
 
-<!-- Removed the following lines to consolidate:
+Removed the following lines to consolidate:
 /* 
 .search-engine-optimization img {
     max-height: 200px;
@@ -77,19 +77,4 @@ Updated images to have alt text:
 
 .social-media-marketing img {
     max-height: 200px;
-} */ -->
-<!-- Removed the following lines and consolidated h2 style:
-/* .search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-} */ -->
+} */
