@@ -1,4 +1,4 @@
-<!-- # Horiseon-Repo
+# Horiseon-Repo
 Challenge 1 repository upload.
 File is an HTML website given by our instructors to clean out redundant code. 
 Removed redundant h3 and img lines for benefit, added benefit class to html in order to reflect updates as well as updated images to reflect accessible alt image text. Removed redundant image assignments in css stylesheet.
