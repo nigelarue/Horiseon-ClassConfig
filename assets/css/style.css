@@ -6,6 +6,25 @@
 
 body {
     background-color: #d9dcd6;
+    color: #ffffff; 
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff; 
+}
+
+p {
+    font-size: 16px;
+}
+
+img {
+    max-height: 200px;    
+}
+
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
 .header {
@@ -39,16 +58,6 @@ body {
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
-}
-
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-    color: #ffffff;
 }
 
 .hero {
@@ -92,8 +101,7 @@ p {
 }
 
 .benefit h3 {
-    text-align: center;
-    color: #ffffff;  
+    text-align: center; 
     margin-top: 20px;
 }
 
@@ -103,40 +111,12 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization {
+.main-content {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-img {
-    max-height: 200px;    
-}
-
-h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 .footer {
